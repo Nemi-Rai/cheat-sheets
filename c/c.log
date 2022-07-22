@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.25)  22 JUL 2022 11:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.25)  22 JUL 2022 12:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -237,31 +237,156 @@ File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
 
+(C:\Software\MikTeX\tex/latex/mdframed\mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+
+(C:\Software\MikTeX\tex/latex/l3packages/xparse\xparse.sty
+(C:\Software\MikTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+
 (C:\Software\MikTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count281
 \l__pdf_internal_box=\box54
+))
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+(C:\Software\MikTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count282
+)
+(C:\Software\MikTeX\tex/latex/zref\zref-abspage.sty
+Package: zref-abspage 2022-04-07 v2.34 Module abspage for zref (HO)
+
+(C:\Software\MikTeX\tex/latex/zref\zref-base.sty
+Package: zref-base 2022-04-07 v2.34 Module base for zref (HO)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+\c@abspage=\count283
+Package zref Info: New property: abspage on input line 65.
+)
+(C:\Software\MikTeX\tex/latex/needspace\needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+(C:\Software\MikTeX\tex/latex/graphics\color.sty
+Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
+
+(C:\Software\MikTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+)
+\mdf@templength=\skip50
+\c@mdf@globalstyle@cnt=\count284
+\mdf@skipabove@length=\skip51
+\mdf@skipbelow@length=\skip52
+\mdf@leftmargin@length=\skip53
+\mdf@rightmargin@length=\skip54
+\mdf@innerleftmargin@length=\skip55
+\mdf@innerrightmargin@length=\skip56
+\mdf@innertopmargin@length=\skip57
+\mdf@innerbottommargin@length=\skip58
+\mdf@splittopskip@length=\skip59
+\mdf@splitbottomskip@length=\skip60
+\mdf@outermargin@length=\skip61
+\mdf@innermargin@length=\skip62
+\mdf@linewidth@length=\skip63
+\mdf@innerlinewidth@length=\skip64
+\mdf@middlelinewidth@length=\skip65
+\mdf@outerlinewidth@length=\skip66
+\mdf@roundcorner@length=\skip67
+\mdf@footenotedistance@length=\skip68
+\mdf@userdefinedwidth@length=\skip69
+\mdf@needspace@length=\skip70
+\mdf@frametitleaboveskip@length=\skip71
+\mdf@frametitlebelowskip@length=\skip72
+\mdf@frametitlerulewidth@length=\skip73
+\mdf@frametitleleftmargin@length=\skip74
+\mdf@frametitlerightmargin@length=\skip75
+\mdf@shadowsize@length=\skip76
+\mdf@extratopheight@length=\skip77
+\mdf@subtitleabovelinewidth@length=\skip78
+\mdf@subtitlebelowlinewidth@length=\skip79
+\mdf@subtitleaboveskip@length=\skip80
+\mdf@subtitlebelowskip@length=\skip81
+\mdf@subtitleinneraboveskip@length=\skip82
+\mdf@subtitleinnerbelowskip@length=\skip83
+\mdf@subsubtitleabovelinewidth@length=\skip84
+\mdf@subsubtitlebelowlinewidth@length=\skip85
+\mdf@subsubtitleaboveskip@length=\skip86
+\mdf@subsubtitlebelowskip@length=\skip87
+\mdf@subsubtitleinneraboveskip@length=\skip88
+\mdf@subsubtitleinnerbelowskip@length=\skip89
+
+(C:\Software\MikTeX\tex/latex/mdframed\md-frame-0.mdf
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
+\mdf@frametitlebox=\box55
+\mdf@footnotebox=\box56
+\mdf@splitbox@one=\box57
+\mdf@splitbox@two=\box58
+\mdf@splitbox@save=\box59
+\mdfsplitboxwidth=\skip90
+\mdfsplitboxtotalwidth=\skip91
+\mdfsplitboxheight=\skip92
+\mdfsplitboxdepth=\skip93
+\mdfsplitboxtotalheight=\skip94
+\mdfframetitleboxwidth=\skip95
+\mdfframetitleboxtotalwidth=\skip96
+\mdfframetitleboxheight=\skip97
+\mdfframetitleboxdepth=\skip98
+\mdfframetitleboxtotalheight=\skip99
+\mdffootnoteboxwidth=\skip100
+\mdffootnoteboxtotalwidth=\skip101
+\mdffootnoteboxheight=\skip102
+\mdffootnoteboxdepth=\skip103
+\mdffootnoteboxtotalheight=\skip104
+\mdftotallinewidth=\skip105
+\mdfboundingboxwidth=\skip106
+\mdfboundingboxtotalwidth=\skip107
+\mdfboundingboxheight=\skip108
+\mdfboundingboxdepth=\skip109
+\mdfboundingboxtotalheight=\skip110
+\mdf@freevspace@length=\skip111
+\mdf@horizontalwidthofbox@length=\skip112
+\mdf@verticalmarginwhole@length=\skip113
+\mdf@horizontalspaceofbox=\skip114
+\mdfsubtitleheight=\skip115
+\mdfsubsubtitleheight=\skip116
+\c@mdfcountframes=\count285
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count286
+\c@mdf@env@i=\count287
+\c@mdf@env@ii=\count288
+\c@mdf@zref@counter=\count289
+Package zref Info: New property: mdf@pagevalue on input line 895.
 ) (c.aux)
 \openout1 = `c.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -299,16 +424,16 @@ LaTeX Font Info:    ... okay on input line 11.
 
 (C:\Software\MikTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count282
+\scratchcounter=\count290
 \scratchdimen=\dimen157
-\scratchbox=\box55
-\nofMPsegments=\count283
-\nofMParguments=\count284
+\scratchbox=\box60
+\nofMPsegments=\count291
+\nofMParguments=\count292
 \everyMPshowfont=\toks23
-\MPscratchCnt=\count285
+\MPscratchCnt=\count293
 \MPscratchDim=\dimen158
-\MPnumerator=\count286
-\makeMPintoPDFobject=\count287
+\MPnumerator=\count294
+\makeMPintoPDFobject=\count295
 \everyMPtoPDFconversion=\toks24
 ) (C:\Software\MikTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -318,7 +443,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (C:\Software\MikTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 11.
+Package hyperref Info: Link coloring OFF on input line 12.
 
 (C:\Software\MikTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -329,33 +454,39 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (C:\Software\MikTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count288
+\c@section@level=\count296
 )
-LaTeX Info: Redefining \ref on input line 11.
-LaTeX Info: Redefining \pageref on input line 11.
-LaTeX Info: Redefining \nameref on input line 11.
+LaTeX Info: Redefining \ref on input line 12.
+LaTeX Info: Redefining \pageref on input line 12.
+LaTeX Info: Redefining \nameref on input line 12.
  (c.out)
 (c.out)
 \@outlinefile=\write3
 \openout3 = `c.out'.
 
-\c@lstlisting=\count289
+\c@lstlisting=\count297
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 15.
+(Font)              <14.4> on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 15.
+(Font)              <7> on input line 16.
  [1
 
 {C:/Users/nemir/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-
-Package hyperref Warning: old toc file detected, not used; run LaTeX again.
-
+(c.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+)
 \tf@toc=\write4
 \openout4 = `c.toc'.
 
+ [2]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 20.
-(code/hello.c
+nput line 23.
+ (code/hello.c
 LaTeX Font Info:    Trying to load font information for OML+cmr on input line 1
 .
  (C:\Software\MikTeX\tex/latex/base\omlcmr.fd
@@ -363,39 +494,45 @@ File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 1.
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 3
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 2
 .
 
 (C:\Software\MikTeX\tex/latex/base\omscmr.fd
 File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 3.
-) [2] (c.aux)
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 2.
+) (code/variables.c
+Overfull \hbox (92.68117pt too wide) in paragraph at lines 4--5
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
 
-Package rerunfilecheck Warning: File `c.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+) [3] (code/input.c) (code/io.c) [4]
+Underfull \hbox (badness 10000) in paragraph at lines 48--57
 
-Package rerunfilecheck Info: Checksums for `c.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  F2D3DDEB393D273BD410ACF526C8CE74;872.
+ []
+
+[5] (c.aux)
+Package rerunfilecheck Info: File `c.out' has not changed.
+(rerunfilecheck)             Checksum: 35FE66AF1C661AC8F26C53978D83AC87;1214.
  ) 
 Here is how much of TeX's memory you used:
- 10342 strings out of 478582
- 158391 string characters out of 2856538
- 454817 words of memory out of 3000000
- 28406 multiletter control sequences out of 15000+600000
- 472297 words of font info for 38 fonts, out of 8000000 for 9000
+ 11727 strings out of 478582
+ 184021 string characters out of 2856538
+ 524804 words of memory out of 3000000
+ 29684 multiletter control sequences out of 15000+600000
+ 474764 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,63p,212b,1240s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<C:/Software/MikTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Software/Mi
-kTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Software/MikTeX/fonts/type1/
-public/amsfonts/cm/cmr12.pfb><C:/Software/MikTeX/fonts/type1/public/amsfonts/cm
-/cmr17.pfb><C:/Software/MikTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on c.pdf (2 pages, 61037 bytes).
+ 68i,6n,77p,445b,1384s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\nemir\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1200.pk><C:/Software/MikTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Softw
+are/MikTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Software/MikTeX/fonts/
+type1/public/amsfonts/cm/cmr12.pfb><C:/Software/MikTeX/fonts/type1/public/amsfo
+nts/cm/cmr17.pfb><C:/Software/MikTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+
+Output written on c.pdf (5 pages, 84140 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 189 PDF objects out of 1000 (max. 8388607)
+ 76 named destinations out of 1000 (max. 500000)
+ 89 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,8 +1,11 @@
-\contentsline {section}{\numberline {1}Hello World}{2}{section.1}%
-\contentsline {section}{\numberline {2}Syntax}{2}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Variables}{2}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Arithmatic Operators}{2}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Conditional Operators}{2}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Loops}{2}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}Statements}{2}{subsection.2.5}%
-\contentsline {subsection}{\numberline {2.6}Notes}{2}{subsection.2.6}%
+\contentsline {section}{\numberline {1}Hello World}{3}{section.1}%
+\contentsline {section}{\numberline {2}Fundamentals}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Variables}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}I/O}{3}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Basic I/O}{3}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Input using pointers}{4}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}More I/O}{4}{subsubsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.3}Conditional Operators}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Loops}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Statements}{5}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Notes}{5}{subsection.2.6}%

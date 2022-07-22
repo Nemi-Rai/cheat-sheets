@@ -6,7 +6,8 @@
 \usepackage{float} % for placing the picture correctly
 \usepackage{verbatim}  % for multiline comments
 \PassOptionsToPackage{hyphens}{url}\usepackage{hyperref} % text wrap for urls
-\usepackage{listings}
+\usepackage{listings} % for code snippets
+\usepackage[linewidth=1pt]{mdframed} %for borders
 
 \begin{document}
 \title{C Cheat Sheet}
@@ -15,14 +16,44 @@
 
 \pagebreak 
 \tableofcontents
+\pagebreak
 
 \section{Hello World}
+\begin{mdframed}
 \lstinputlisting{code/hello.c}
+\end{mdframed}
 
-\section{Syntax}
+\section{Fundamentals}
 \subsection{Variables}
+\begin{mdframed}
+\lstinputlisting{code/variables.c}
+\end{mdframed}
 
-\subsection{Arithmatic Operators}
+\subsection{I/O}
+\subsubsection{Basic I/O}
+printf("control string",  variable1,  variable2, ...);\\
+scanf("control string",\&pointer1,\&pointer2, ...);
+\pagebreak
+
+\subsubsection{Input using pointers}
+\begin{mdframed}
+\lstinputlisting{code/input.c}
+\end{mdframed}
+
+\subsubsection{More I/O}
+\begin{mdframed}
+\lstinputlisting{code/io.c}
+\end{mdframed}
+\pagebreak
+Outputs:\\
+(1)  10\\
+(2)  50\\
+(3)  x = 10\\
+(4)  x = 10\\
+input x: 40\\
+(5)  x = 40\\
+input x, y: 20 34.5\\
+(6)  x = 20, y = 34.500000\\
 
 \subsection{Conditional Operators}
 
