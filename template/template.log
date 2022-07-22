@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.25)  22 JUL 2022 01:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.25)  22 JUL 2022 09:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -351,7 +351,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {C:/Users/nemir/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (template.to
-c)
+c
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+)
 \tf@toc=\write4
 \openout4 = `template.toc'.
 
@@ -375,24 +380,30 @@ File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 3.
 ) [2] (template.aux)
-Package rerunfilecheck Info: File `template.out' has not changed.
-(rerunfilecheck)             Checksum: 7BFDAB4D503B31A2C3908705885D19AE;101.
+
+Package rerunfilecheck Warning: File `template.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `template.out':
+(rerunfilecheck)             Before: 557CF90890A763D793BF2A1EE00E0F7D;683
+(rerunfilecheck)             After:  7460DADD102684BC4BD66DEAA11EDA6F;790.
  ) 
 Here is how much of TeX's memory you used:
- 10343 strings out of 478582
- 158651 string characters out of 2856538
- 454018 words of memory out of 3000000
- 28412 multiletter control sequences out of 15000+600000
- 472912 words of font info for 40 fonts, out of 8000000 for 9000
+ 10369 strings out of 478582
+ 158960 string characters out of 2856538
+ 457026 words of memory out of 3000000
+ 28426 multiletter control sequences out of 15000+600000
+ 475042 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,6n,63p,219b,1240s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Software/MikTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Software/Mi
 kTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Software/MikTeX/fonts/type1/
 public/amsfonts/cm/cmr12.pfb><C:/Software/MikTeX/fonts/type1/public/amsfonts/cm
 /cmr17.pfb><C:/Software/MikTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on template.pdf (2 pages, 57567 bytes).
+Output written on template.pdf (2 pages, 65752 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 12 named destinations out of 1000 (max. 500000)
- 9 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 83 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
+ 49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
